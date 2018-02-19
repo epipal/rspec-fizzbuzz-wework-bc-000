@@ -1,4 +1,4 @@
-def Fizzbuzz(int)
+def fizzbuzz(int)
   if int % 15 == 0
     "Fizzbuzz"
     elsif int % 3 == 0
